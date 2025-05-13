@@ -547,6 +547,7 @@ function WorldMapSection() {
     <section className="py-20 bg-gray-50 overflow-hidden">
       <div className="container mx-auto px-4 ">
         <div className="text-center mb-16">
+        <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold">Global Learning Community</h2>
           <p className="text-gray-600">
         Join our diverse community of learners from across the globe, united by their pursuit of excellence and love for learning.
